@@ -1,4 +1,4 @@
-# Lab 3 - *Chat Application*
+# Lab 5 - *Chat Application*
 
 Playing with how to store and retrieve data from the Parse backend-as-a-service.
 
